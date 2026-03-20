@@ -1,10 +1,16 @@
 # TASK - 1
 # DATA_PIPELINE_DEVELOPMENT
+
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: BADIMELA VISHNU VARDHAN
+
 *INTERN ID*: CTIS1342
+
 *DOMAIN*: DATA SCIENCE
+
 *DURATION*: 12 WEEKS
+
 *MENTOR*: NEELA SANTHOSH
 
 ## This project implements an end-to-end Machine Learning ETL (Extract, Transform, Load) pipeline designed to predict vehicle CO2 emissions based on various automotive specifications. As a Computer Science and Engineering student specializing in AI, this work demonstrates a structured approach to building reproducible data workflows and predictive models.
