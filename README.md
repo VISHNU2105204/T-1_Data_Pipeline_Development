@@ -25,7 +25,7 @@
 
 ## Modeling: A Random Forest Regressor was integrated into the final pipeline. This ensemble method was chosen to capture non-linear relationships between engine characteristics and emission levels.
 
-## Loading & Persistence: The fully trained pipeline—including both the preprocessing steps and the model—is serialized and saved as a .joblib file. This ensures the model can be easily deployed or reloaded for future predictions without retraining.
+## Loading & Persistence: The fully trained pipeline including both the preprocessing steps and the model—is serialized and saved as a .joblib file. This ensures the model can be easily deployed or reloaded for future predictions without retraining.
 
 ## The model was evaluated on a test set (20% of the data) and achieved high accuracy:
 ## R^2 Score: 0.9742, indicating the model explains over 97% of the variance in $CO_2$ emissions.
