@@ -31,3 +31,5 @@
 ## R^2 Score: 0.9742, indicating the model explains over 97% of the variance in $CO_2$ emissions.
 ## RMSE: 10.1898, representing the standard deviation of the prediction errors.
 ## MAE: 3.0989, showing that on average, predictions deviate by only about 3 units from the actual emission values.
+# OUTPUT: 
+<img width="732" height="390" alt="Image" src="https://github.com/user-attachments/assets/cdb18b73-660e-405e-b6d0-f381cd431b8b" />
